@@ -2,7 +2,7 @@
 
 ## 克隆项目
 ```
-git clone 
+git clone https://github.com/NLxs/myTodo.git
 ```
 
 ## 安装依赖
